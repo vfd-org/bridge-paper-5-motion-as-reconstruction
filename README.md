@@ -20,7 +20,7 @@ Vibrational Field Dynamics Institute
 **Status:**  
 Final preprint version (December 2025)
 
-The paper is provided in PDF form:
+Download the paper here:
 
 motion_as_reconstruction.pdf
 
@@ -71,13 +71,11 @@ No source code is included in this repository.
 
 This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-You are free to share and adapt the material, provided appropriate attribution is given.
-
 See the `LICENSE` file for full terms.
 
 ---
 
-## 📣 Citation
+## 📬 Citation
 
 If you reference this work, please cite it as:
 
@@ -87,7 +85,6 @@ If you reference this work, please cite it as:
 
 ## 📬 Contact
 
-For questions, discussion, or collaboration:
-
+For questions or collaboration:
 - Email: contact@vibrationalfielddynamics.org
 - X (Twitter): @vfd_org
